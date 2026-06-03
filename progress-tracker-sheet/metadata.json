@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetic Tracker Sheets",
+  "description": "An elegant, interactive spreadsheet-inspired personal workspace and daily tracker with tabs for LeetCode, projects, hackathons, certifications, DSA, and WebDev trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
